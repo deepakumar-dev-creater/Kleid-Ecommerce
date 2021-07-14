@@ -1,6 +1,5 @@
-# E-Commerce-Website-Using-Python
+# Kleid-Website-Using-Python
 ## Summary
-Hello friends, This is our first full e-commerce project with Python-Flask.
 
 ## Platform Used
 ### Front-End
@@ -32,5 +31,5 @@ Hello friends, This is our first full e-commerce project with Python-Flask.
 (iii) See all Orders <br>
 (iv) Manage all Users <br>
 
-## Conclusion
-ping us to get source code 
+### Integrated Stripe
+(i) User can buy product and checkout with stripe payment gateway
