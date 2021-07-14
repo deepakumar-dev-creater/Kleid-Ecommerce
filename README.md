@@ -1,7 +1,6 @@
 # Kleid-Website-Using-Python
-## Summary
 
-## Platform Used
+## Technology Used
 ### Front-End
   (i) HTML5 <br>
   (ii) CSS3 <br>
